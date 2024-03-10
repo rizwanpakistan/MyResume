@@ -1,0 +1,130 @@
+* {
+    font-family: serif;
+    padding: 0;
+}
+
+.nav-item a {
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    font-family: serif;
+    margin: 4px 5px 0 5px;
+}
+
+.nav-item a:hover {
+    background-color: gold;
+    color: white;
+}
+
+.logo img {
+    width: 80px;
+    height: 40px;
+    margin: 1px 4px 0 2px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    box-shadow: 10px;
+}
+
+.navbar-toggler {
+    color: white;
+    background-color: gold;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar-text i {
+    font-size: 20px;
+    margin: 0 2px 0 2px;
+}
+
+.fa-facebook {
+    color: rgb(255, 255, 255);
+}
+
+.fa-twitter {
+    color: rgb(85, 172, 238);
+}
+
+.fa-linkedin {
+    color: rgb(0, 119, 181);
+}
+
+.fa-github {
+    color: black;
+}
+
+.cont {
+    max-height: 550px;
+    width: 100%;
+    background-color: rgba(2, 2, 2, 0.724);
+    color: white;
+    text-align: center;
+}
+
+.cont h1 {
+    font-family: serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.cont img {
+    border-radius: 5px;
+}
+
+.paragraph {
+    font-size: 20px;
+    margin: 10px 10px 5px 10px;
+}
+
+.fa-brands {
+    font-size: 40px;
+    margin: 5px 0 5px 0;
+}
+
+.fa-html5 {
+    color: #e34c26;
+}
+
+.fa-css3-alt {
+    color: rgb(39, 39, 236);
+}
+
+.fa-python {
+    color: rgb(177, 177, 31);
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*
+footer .pk {
+    text-align: center;
+    margin-top: 25px;
+} */
+
+.ht:hover {
+    background-color: black;
+    color: white;
+}
+
+.h3_Size {
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: 600;
+}
